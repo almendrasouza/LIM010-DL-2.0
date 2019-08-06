@@ -6,5 +6,14 @@
 const example = () => {
   return 'example';
 };
+fetch('.//data//potter.json')
+  .then((response)=> {
+    console.log(response);
+    return response.json();
+  })
+  .then((myJson) =>{
+    console.log(myJson);
+  });
 
-window.example = example;
+
+
