@@ -19,9 +19,14 @@ En este proyecto **construirás una _página web_ para visualizar un _conjunto (
 
 ## Objetivos de aprendizaje
 
-El objetivo principal de este proyecto es que afiances tu aprendizaje practicando la planificación *Agile* utilizando *Scrum* con el fin de que logres, en el tiempo indicado, implementar una interfaz web donde se pueda visualizar y manipular data de los personajes del mundo de Harry Potter utilizando arreglos y objetos con JavaScript.
+NECESITO REFORZAR LOS OBJETOS
+NECESITO INVESTIGAR MAS SOBRE OBJETOS LEER E IMPLEMENTAR EN VISUAL
+¿Como obtengo el valor de una propiedad?
+NECESITO PRACTICAR Y FILTRAR
+NECESITO PRACTICAR Y RESOLVER  EJERCICIOS DE OBJETOS EN EL LMS
+NECESITO APRENDER A USAR FETCH
 
-Dicho en palabras sencillas, aprenderás:
+
 
 ### A nivel de planificación
 
